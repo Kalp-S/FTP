@@ -1,5 +1,5 @@
 # FTP
-Cocurrent TCP/IP Based FTP server and client.
+Cocurrent TCP/IP Based FTP server and client written in C.
 
 Client has the ability to:
 1. Request a File stored on the server.
